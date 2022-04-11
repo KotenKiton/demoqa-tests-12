@@ -45,6 +45,6 @@ public class SimpleTest {
     @Test
     void assertTest3() {
         System.out.println("###               @test 3");
-        // поиск в картинка +
+        // поиск в картинка -
     }
 }
